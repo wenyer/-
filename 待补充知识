@@ -1,0 +1,3 @@
+1、MyBatis介绍一下？你说到这是一个持久层框架，那你了解JPA规范吗？
+2、Servlet规范了解吗？Servlet的整个业务流程？session和cookie的区别？session怎么变成cookie，怎么变回session？谁来实现整个流程？ 
+3、假设是InnoDB，给上述SQL语句加索引怎么加？为什么这样建立？聚集索引和非聚集索引有什么区别？ 
